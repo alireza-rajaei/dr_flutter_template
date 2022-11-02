@@ -1,4 +1,4 @@
-![](https://github.com/rifqieh/doctor-consultation-app/blob/master/doctor_consultation.png)
+![](https://github.com/alireza-rajaei/dr_flutter_template/blob/master/assets/imgs/screenshot.png)
 
 Installation
 
