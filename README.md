@@ -1,4 +1,4 @@
-![](https://github.com/alireza-rajaei/dr_flutter_template/tree/master/assets/imgs/screenshot.png)
+![](https://github.com/rifqieh/doctor-consultation-app/blob/master/doctor_consultation.png)
 
 Installation
 
@@ -18,7 +18,7 @@ Dotor Booking App UI made with Flutter, Don't forget to star ⭐ the repo it mot
 
 ### License
 
-    Copyright 2020 Sanskar Tiwari
+    Copyright 2020 Alireza rajaei
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
